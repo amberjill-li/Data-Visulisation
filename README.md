@@ -4,7 +4,6 @@ Interactive Power BI dashboard analysing mortgage lending patterns across New Yo
 
 **[Click to view live dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGUyNTRmYzItMzE2Zi00OWNmLWE3YjQtNjMyMGVmOGE2MDQ0IiwidCI6IjVhNzQwY2Q3LTU3NjgtNGQwOS1hZTEzLWY3MDZiMDlmYTIyYyIsImMiOjEwfQ%3D%3D)**
 
-![Dashboard preview](dashboard-preview.png)
 
 > Group project. My contribution: data cleaning, geographic visuals, county-level visuals and DAX normalisation measures
 
